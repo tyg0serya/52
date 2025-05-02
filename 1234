@@ -1,0 +1,10 @@
+git remote add origin https://github.com/tyg0serya/52.git
+git branch -M main
+git push -u origin main
+ $ git branch
+* master readme
+$ git remote -v origin git@github.com:[forked-repo- owner-username]/[repo-name].git
+(fetch)
+origin	git@github.com:[forked-repo-owner- username]/[repo-name].git
+(push)
+$ git push origin readme
